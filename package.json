@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss styles/main.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YXCrystal/calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YXCrystal/calculator/issues"
+  },
+  "homepage": "https://github.com/YXCrystal/calculator#readme",
+  "description": ""
+}
