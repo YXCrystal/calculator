@@ -30,7 +30,7 @@ body {
     left: 0; }
     .calculator__screen--value {
       position: absolute;
-      font-size: 8rem;
+      font-size: 5rem;
       right: 0;
       bottom: 0;
       margin-right: 1rem; }
